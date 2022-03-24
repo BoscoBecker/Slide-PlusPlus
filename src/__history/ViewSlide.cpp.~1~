@@ -17,7 +17,7 @@ __fastcall TFormCardPanel::TFormCardPanel(TComponent* Owner)
 }
 
 const UnicodeString OPHIUCHUS = "Rho Ophiuchus -  Fonte: https://www.astrobin.com/" ;
-const UnicodeString SUN = "Sun AR2960 05_03_2022 -  Fonte: https://www.astrobin.com/";
+const UnicodeString SUN  = "Sun AR2960 05_03_2022 -  Fonte: https://www.astrobin.com/";
 const UnicodeString BASALT = "Basalt colors in Copernic area -  Fonte: https://www.astrobin.com/";
 
 
