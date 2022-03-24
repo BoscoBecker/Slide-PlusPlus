@@ -1,4 +1,4 @@
-# Slide-
+# Slide C++
 #Primeira aplicação feita em C++ usando Delphi
 
 #Usando imagens do site https://www.astrobin.com/2r06mh/
